@@ -14,7 +14,8 @@ Language's I (somewhat) know:
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 
-what I'm learning: 
+what I'm learning:
+
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <!--
 **PinkishOxygen/PinkishOxygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
