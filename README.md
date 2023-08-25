@@ -12,8 +12,6 @@ _All the projects here are hobby projects._
 Language's I (somewhat) know:
 
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg"></code>
 
 what I'm learning:
 
